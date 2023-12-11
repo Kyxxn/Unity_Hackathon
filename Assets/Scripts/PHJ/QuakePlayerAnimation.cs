@@ -5,11 +5,13 @@ using UnityEngine;
 public class QuakePlayerAnimation : MonoBehaviour
 {
     private Animator animator;
+    public static QuakePlayerAnimation instance = null;
 
     public bool _iswalk = false;
     public bool _isrun = false;
     public bool _isjump = false;
-    public bool _isCrouching;
+    public bool _isCrouching = false;
+    public bool _ishandsUp = false;
 
     private void Start()
     {
@@ -40,20 +42,28 @@ public class QuakePlayerAnimation : MonoBehaviour
             {
                 animator.SetBool("isRun", false);
             }
-
+            if (_ishandsUp)
+            {
+                animator.SetBool("ishandsUp", true);
+            }
+            else
+            {
+                animator.SetBool("ishandsUp", false);
+            }
+            if (_isCrouching)
+            {
+                animator.SetBool("isCrouching", true);
+            }
+            else
+            {
+                animator.SetBool("isCrouching", false);
+            }
         }
         else
         {
             animator.SetBool("isWalk", false);
         }
-        if (_isCrouching)
-        {
-            animator.SetBool("isCrouching", true);
-        }
-        else
-        {
-            animator.SetBool("isCrouching", false);
-        }
+
     }
 
 }
