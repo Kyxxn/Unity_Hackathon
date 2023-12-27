@@ -1,19 +1,23 @@
-## [해커톤] Unity_Repo
+<div>
 
-# 초기세팅
-1. Assets 아래, 개인 Scene 및 필요한 폴더 세팅
-폴더 내에 본인 폴더 만들어서 사용하기
+  <div align="center">
+      <img width="329" alt="스크린샷 2023-12-26 18 14 51" src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/f982eb8e-7665-40eb-8f95-b55bb0bdbd6b">
+  </div>
 
-2. Prefab 되어있는 오브젝트 삭제 및 수정
-현재 Main_BackGround 같은 경우 Prefab 되어 자식 오브젝트를 포함한 모든 것들이 삭제가 안됨
-삭제하고 싶으면 부모 Prefab인 'Main_BackGround' 우클릭 후 Prefab -> UnPack을 눌러 프리팹을 해제하고 삭제함
-그러면 개인의 Main_BackGround가 수정됨 (공통으로 수정해야 한다면 프로젝트 Prefab 상태에서 수정)
+## 배포 링크
 
+[메타 재난 시뮬레이션](http://3.36.87.32:3000/)   
+## 프로젝트명   
+메타 재난 시뮬레이션
+확장형 하이브리드 메타버스 재난 시뮬레이션 플랫폼
+## 프로젝트 설명   
+웹 로그인 후 유니티 환경 렌더링
+유니티 환경의 로비 씬에서 리스폰 -> 대피 시나리오 4개 중 선택
 
+## FLOW
 
-# 유니티-깃허브 연동 방법
-1. 아무 3D 프로젝트 생성
-2. 원본 저장소 fork 후 본인 원격 저장소 링크 복사 후 '깃허브 데스크탑' FILE -> Clone Repo
-3. 1번에서 생성한 디렉토리 내부의 파일을 모두 Clone Repo에 붙여넣음
-4. 유니티 허브에서 '추가'를 눌러 Clone Repo를 열어준 후 작업 (1번 디렉토리 삭제)
-5. 이후 Push와 PR 동일
+<img width="758" alt="FullFlow" src="https://github.com/Kyxxn/Unity_Metaverse/assets/129862357/3ad3b01d-a296-4900-bc39-fbd3e9ca22df">
+
+## 사용된 기술스택   
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Styled-components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+</div>
