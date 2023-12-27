@@ -14,7 +14,7 @@
   <div>
     <p>웹 로그인 후 유니티 환경 렌더링</p>
     <p>유니티 환경의 로비 씬에서 리스폰 -> 대피 시나리오 4개 중 선택</p>
-    <span style="color:red;">나의 씬 : 지진 대피 시나리오</span>
+    <span style="color:red">나의 씬 : 지진 대피 시나리오 </span>
   </div>
 
 ## FLOW
