@@ -15,8 +15,7 @@
 유니티 환경의 로비 씬에서 리스폰 -> 대피 시나리오 4개 중 선택
 
 ## FLOW
-
-<img width="758" alt="FullFlow" src="https://github.com/Kyxxn/Unity_Metaverse/assets/129862357/3ad3b01d-a296-4900-bc39-fbd3e9ca22df">
+<img width="257" alt="UnityFlow" src="https://github.com/Kyxxn/Unity_Metaverse/assets/129862357/1b6a2592-1a77-4bf8-9b92-828df43c3d68">
 
 ## 사용된 기술스택   
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Styled-components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
