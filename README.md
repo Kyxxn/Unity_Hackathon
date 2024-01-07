@@ -15,6 +15,21 @@
 유니티 환경의 로비 씬에서 리스폰 -> 대피 시나리오 4개 중 선택<br/>
 **나의 씬 : 지진 대피 시나리오**
 
+<br>
+
+<!-- ## 🪄 배포 주소 --> 
+<!-- 배포 주소 작성 -->
+
+## 🧑‍💻 팀원 소개
+
+
+| 이름 |  박효준  |
+| :------------: | :------------: |
+|  | <img src="https://github.com/Kyxxn/React_Metaverse/assets/129862357/440e93ab-233b-47ef-9637-a4515d13d915" width="150"/> |
+| 깃허브 | [@Kyxxn](https://github.com/Kyxxn) |
+
+<br>
+
 ## FLOW
 <img width="257" alt="UnityFlow" src="https://github.com/Kyxxn/Unity_Metaverse/assets/129862357/1b6a2592-1a77-4bf8-9b92-828df43c3d68">
 
